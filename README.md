@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, I'm Miriam Schnitzerlein 👋
 
+- 👩‍💻 I'm currently a PhD student at the chair of Mathematics in Life Sciences at the Friedrich-Alexander-University Erlangen-Nürnberg, Germany.
+- 🔭 My current project is about quantifying the sampling behaviour of resident tissue macrophages via image processing.
+- 🌱 I'm new to GitHub and still learning about everything.
+  
 <!--
 **MiriamSchnitzerlein/MiriamSchnitzerlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
