@@ -1,6 +1,6 @@
 ### Hi, I'm Miriam Schnitzerlein 👋
 
-- 👩‍💻 I'm currently a PhD student at the chair of Mathematics in Life Sciences at the Friedrich-Alexander-University Erlangen-Nürnberg, Germany.
+- 👩‍💻 I'm currently a PhD student at the chair of Mathematics in Life Sciences at the Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany.
 - 🔭 My current project is about quantifying the sampling behaviour of resident tissue macrophages via image processing.
 
   
